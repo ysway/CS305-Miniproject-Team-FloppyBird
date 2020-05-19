@@ -1,16 +1,16 @@
-Fitter Status : Successful - Tue May 19 04:02:45 2020
+Fitter Status : Successful - Tue May 19 19:56:28 2020
 Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
 Revision Name : CS305-Miniproject-Team-FloppyBird
 Top-level Entity Name : CS305-Miniproject-Team-FloppyBird
 Family : Cyclone III
 Device : EP3C16F484C6
 Timing Models : Final
-Total logic elements : 292 / 15,408 ( 2 % )
-    Total combinational functions : 260 / 15,408 ( 2 % )
-    Dedicated logic registers : 172 / 15,408 ( 1 % )
-Total registers : 172
-Total pins : 19 / 347 ( 5 % )
+Total logic elements : 332 / 15,408 ( 2 % )
+    Total combinational functions : 291 / 15,408 ( 2 % )
+    Dedicated logic registers : 184 / 15,408 ( 1 % )
+Total registers : 184
+Total pins : 20 / 347 ( 6 % )
 Total virtual pins : 0
-Total memory bits : 0 / 516,096 ( 0 % )
+Total memory bits : 2,048 / 516,096 ( < 1 % )
 Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
 Total PLLs : 1 / 4 ( 25 % )

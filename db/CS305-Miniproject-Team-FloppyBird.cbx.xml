@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <LOG_ROOT>
 	<PROJECT NAME="CS305-Miniproject-Team-FloppyBird">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CS305-Miniproject-Team-FloppyBird|BUSMUX:inst13|lpm_mux:$00000" CBX_FILE_NAME="mux_0qc.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|CS305-Miniproject-Team-FloppyBird|altpll0:inst3|altpll:altpll_component" CBX_FILE_NAME="altpll0_altpll.v"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|CS305-Miniproject-Team-FloppyBird|char_rom:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
 	</PROJECT>

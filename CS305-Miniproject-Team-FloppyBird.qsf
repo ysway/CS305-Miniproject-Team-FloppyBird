@@ -91,6 +91,7 @@ set_location_assignment PIN_H7 -to sw6
 set_location_assignment PIN_E3 -to sw7
 set_location_assignment PIN_E4 -to sw8
 set_location_assignment PIN_D2 -to sw9
+set_global_assignment -name VHDL_FILE displaytext.vhd
 set_global_assignment -name VHDL_FILE debounce.vhd
 set_global_assignment -name VHDL_FILE BCD2SevenSeg.vhd
 set_global_assignment -name VHDL_FILE BCD_Counter.vhd

@@ -1,5 +1,5 @@
 EDA Netlist Writer report for CS305-Miniproject-Team-FloppyBird
-Tue May 19 04:03:01 2020
+Tue May 19 19:56:51 2020
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
 
 
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Tue May 19 04:03:01 2020 ;
+; EDA Netlist Writer Status ; Successful - Tue May 19 19:56:51 2020 ;
 ; Revision Name             ; CS305-Miniproject-Team-FloppyBird     ;
 ; Top-level Entity Name     ; CS305-Miniproject-Team-FloppyBird     ;
 ; Family                    ; Cyclone III                           ;
@@ -88,7 +88,7 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.1.0 Build 162 10/23/2013 SJ Full Version
-    Info: Processing started: Tue May 19 04:03:00 2020
+    Info: Processing started: Tue May 19 19:56:48 2020
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off CS305-Miniproject-Team-FloppyBird -c CS305-Miniproject-Team-FloppyBird
 Info (204019): Generated file CS305-Miniproject-Team-FloppyBird_6_1200mv_85c_slow.vho in folder "C:/Users/Admin/Desktop/CS305-Miniproject-Team-FloppyBird/simulation/modelsim/" for EDA simulation tool
 Info (204019): Generated file CS305-Miniproject-Team-FloppyBird_6_1200mv_0c_slow.vho in folder "C:/Users/Admin/Desktop/CS305-Miniproject-Team-FloppyBird/simulation/modelsim/" for EDA simulation tool
@@ -99,9 +99,9 @@ Info (204019): Generated file CS305-Miniproject-Team-FloppyBird_6_1200mv_0c_vhd_
 Info (204019): Generated file CS305-Miniproject-Team-FloppyBird_min_1200mv_0c_vhd_fast.sdo in folder "C:/Users/Admin/Desktop/CS305-Miniproject-Team-FloppyBird/simulation/modelsim/" for EDA simulation tool
 Info (204019): Generated file CS305-Miniproject-Team-FloppyBird_vhd.sdo in folder "C:/Users/Admin/Desktop/CS305-Miniproject-Team-FloppyBird/simulation/modelsim/" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 4573 megabytes
-    Info: Processing ended: Tue May 19 04:03:02 2020
-    Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:01
+    Info: Peak virtual memory: 4565 megabytes
+    Info: Processing ended: Tue May 19 19:56:51 2020
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
 
 

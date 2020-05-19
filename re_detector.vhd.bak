@@ -1,0 +1,25 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity RE_detector is
+    port (X, clk: in std_logic;
+        Y: out std_logic);
+end entity;
+
+architecture Bhv of RE_detector is
+    variable Z : std_logic := 0;
+    begin
+        process(clk, X)
+        begin
+            if risingedge(clk) then
+                if Z /= X then
+                    Y <= X;
+                    Z := X;
+                else
+                    Y <= not X;
+                end if;
+            end if;
+        end process;
+end architecture Bhv;
+
+
